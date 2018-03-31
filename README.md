@@ -18,3 +18,5 @@ This project contains a gitignore that will stop most IDE specific files as well
 * Right-click your *.jar inside output layout. Select Add a Copy of -> Module Output
 
 Squirrel number 1522490818432 gnawed industriously
+
+Squirrel number 1522490842453 gnawed industriously
